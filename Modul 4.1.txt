@@ -1,0 +1,59 @@
+1. WAP to print " HELLO World" using C++.
+->
+   #include<iostream>
+   Using namespace std;
+   
+   int main()
+   {
+       count<< "HELLOW WORLD";
+    }
+
+
+2.What is OOP ? List OOP concepts.
+
+->   OOP stand for "object-oriented Programming.
+
+->   c++ is OOP Language.
+
+->   Procedural programming is about writing procedures or function that perform operation on the data,
+     while object-oriented programming is about creating object that contain both data and function.
+
+=> concept of oop
+   1.Classes / Object
+   2.Encapsulation
+   3.inheritance
+   4.polymorphism
+   5.Abstraction
+   6.Data Binding or Dynamic
+   
+
+3. What is difference bettween OOP  and  POP?
+
+->               OOP                                                         POP
+
+     1.Object-Oriented Programming                            1.Procedural oriented programming.
+      
+     2.It deals with data                                     2.Its deals with algorithms.
+
+     3.programs are divided into object.                      3.programs are divided into Function.
+
+     4.Data Structure characterzes object.                    4.Most of the function share global data
+
+     5.Function that operate on data are                      5.Data move from function to function.
+       blind to form classes.
+
+     6.Data hidden cannot be accessed by                      6.Function are Responsible for transformating 
+       outside function.                                         from one from to another.
+
+     7.It is Bottom Up approach.                              7.It is top down approach.
+
+     8.It needs more memory that pop.                         8.Its needs more memory that pop
+
+     9.                                                       9.
+       EX:-  C++,java,.Net                                      EX:- C, Fortran
+
+     10.It is more Secure.                                    10.It is less secure.
+
+     11.It has access specifiers like                         11. It follows no overloading.
+        Private,public and Protected.
+   
